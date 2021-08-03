@@ -32,19 +32,3 @@ Nota: As principais Linguagens de programação não indicam meu nível de habil
 </a>
 <img align="center" alt="Dhales-tks" src="https://img.shields.io/badge/%F0%9F%99%8FOBRIGADO_POR_PASSAR_UM_MOMENTO_NO_MEU%20PERFIL-dodgerred.svg?style=for-the-badge">
 
-<!--
-**dhalesribeiro/dhalesribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Atualmente sou Desenvolvedor Front-end
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- 💻 Trabalho como técnico de informática.
-
-💻
--->
