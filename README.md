@@ -22,7 +22,7 @@
 </div>
 <br>
 <i>
-Nota: As principais Linguagens de programação não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais Linguagens deprogramação eu tenho mais código no github.
+Nota: As principais Linguagens de programação não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais Linguagens de programação eu tenho mais código no github.
 <br>
 </i>
 <br>
