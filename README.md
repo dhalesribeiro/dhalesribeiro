@@ -30,7 +30,7 @@ Nota: As principais Linguagens de programação não indicam meu nível de habil
 <br>
 <a href="https://github.com/dhalesribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhalesribeiro&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhalesribeiro&layout=compact&langs_count=7"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhalesribeiro&layout=compact&langs_count=6"/>
 </a>
 <img align="center" alt="Dhales-tks" src="https://img.shields.io/badge/%F0%9F%99%8FOBRIGADO_POR_PASSAR_UM_MOMENTO_NO_MEU%20PERFIL-dodgerred.svg?style=for-the-badge">
 
