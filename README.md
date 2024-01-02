@@ -1,42 +1,49 @@
-## Olá, eu sou Dhales Ribeiro 😉✌️
-<!-- Redes Sociais -->
-<div> 
-  <a href="https://www.youtube.com/dhalesribeiro" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/dhalesribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%FF0000?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+ <h1 align="left" style="color:white;" >Ei 😉✌️ E aí? tudo tranquilo?</h1>
 
-- 🔭 Atualmente sou Desenvolvedor Front-end.
-- 💻 Trabalho como técnico de informática.
+###
 
-**Linguagens e Ferramentas:**
-<div style="display: inline_block">
-  <img align="center" alt="Dhales-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dhales-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dhales-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dhales-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Dhales-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
-  <img align="center" alt="Dhales-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  <img align="center" alt="Dhales-Less" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg">
-  <img align="center" alt="Dhales-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Dhales-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Dhales-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Dhales-Xd" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-line.svg">
-  <img align="center" alt="Dhales-VisualStudioCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-</div>
+<p align="left">Meu nome é Dhales Ribeiro, trabalho como técnico de informática e nas horas vagas sou Desenvolvedor Front-end 🚀 Atualmente estou estudado Dart/Flutter 📚 onde tenho me apaixonado por essa experiência 💙 </p>
+
+<p align="left">No momento, estou ativamente envolvido na criação de softwares e aplicativos usando Flutter. Desde já, agradeço sua visita ao meu perfil 🤗, nos falamos! vlw flw! 😉✌️</p>
+
+###
+
+<h2 align="left" style="color:white;" >💻 Linguagens e Ferramentas:</h2>
+
+###
+
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,dart,flutter,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+  </a>
 <br>
 <i>
-Nota: As principais Linguagens de programação não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais Linguagens de programação eu tenho mais código no github.
+  Nota: As principais Linguagens de programação não indicam meu nível de habilidade ou algo parecido, é apenas uma métrica do github de quais Linguagens de programação eu tenho mais código no github.
 <br>
 </i>
-<br>
-<a href="https://github.com/dhalesribeiro">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=dhalesribeiro&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhalesribeiro&layout=compact&langs_count=6"/>
-</a>
+</div>
 
- **Você é o visitante:**
+###
 
-<img alingn="center" src="https://profile-counter.glitch.me/dhalesribeiro/count.svg" />
+<h2 align="left" style="color:white;" >🌐 Minhas redes sociais</h2>
 
-<img align="center" alt="Dhales-tks" src="https://img.shields.io/badge/%F0%9F%99%8FOBRIGADO_POR_PASSAR_UM_MOMENTO_NO_MEU%20PERFIL-dodgerred.svg?style=for-the-badge">
+###
 
+<div align="left">
+  <a href="https://instagram.com/dhalesribeiro" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://wm.dhales@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+<h2 align="left" style="color:white;" >🔥 Estatísticas do GitHub</h2>
+
+<div align="left">
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=dhalesribeiro&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150" alt="stats graph"  />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhalesribeiro&theme=tokyonight&hide_border=false" height="150" alt="stats graph"  />
+ 
+</div>
