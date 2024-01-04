@@ -1,8 +1,8 @@
- <h1 align="left" style="color:white;" >Ei 😉✌️ E aí? tudo tranquilo?</h1>
+ <h1 align="left" style="color:white;" >E aí? 😉✌️ Tudo tranquilo?</h1>
 
 ###
 
-<p align="left">Meu nome é Dhales Ribeiro, trabalho como técnico de informática e nas horas vagas sou Desenvolvedor Front-end 🚀 Atualmente estou estudado Dart/Flutter 📚 onde tenho me apaixonado por essa experiência 💙 </p>
+<p align="left">Meu nome é Dhales Ribeiro, trabalho como técnico de informática e nas horas vagas sou Desenvolvedor Front-end. Atualmente estou estudado Dart/Flutter 📚 onde tenho me apaixonado por essa experiência ❤‍🔥 </p>
 
 <p align="left">No momento, estou ativamente envolvido na criação de softwares e aplicativos usando Flutter. Desde já, agradeço sua visita ao meu perfil 🤗, nos falamos! vlw flw! 😉✌️</p>
 
